@@ -1,3 +1,3 @@
 # leblebin
 
-halil ibrahim buraya pull request ile gonderebilirsin yaptiklarini
+beyza hosgeldin bunu duzenliycez iste
